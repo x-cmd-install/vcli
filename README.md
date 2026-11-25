@@ -26,6 +26,16 @@ Total: **6,859** lines of code across **62** files in the top 5 languages.
 | Ini | 10 | 0 | 0 | 3 |
 | Bash | 4 | 2 | 2 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/23 approved changesets -- score normalized to 1
+- **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (0/10) — project is archived
+
 ## Source
 
 - **Upstream**: <https://github.com/dbcli/vcli>
@@ -43,12 +53,12 @@ Total: **6,859** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -59,4 +69,4 @@ Install metadata for vcli lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:33:53Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:02:19Z._
